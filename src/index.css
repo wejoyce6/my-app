@@ -111,3 +111,58 @@ footer {
   text-align: center;
   margin-top: 40px;
 }
+
+/* Navigation hover */
+nav a {
+  color: white;
+  margin-right: 20px;
+  text-decoration: none;
+  font-weight: 600;
+  transition: all 0.3s ease;
+}
+
+nav a:hover {
+  color: #ffefd5; /* light peach */
+  transform: translateY(-2px);
+}
+
+/* Button hover */
+button,
+a[href*="calendly"] {
+  background-color: #007f8c;
+  color: white;
+  padding: 10px 20px;
+  border-radius: 6px;
+  text-decoration: none;
+  display: inline-block;
+  margin-top: 15px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+button:hover,
+a[href*="calendly"]:hover {
+  background-color: #005f66;
+  transform: scale(1.05);
+}
+
+/* Services hover */
+ul li {
+  font-size: 1.1rem;
+  line-height: 2;
+  transition: all 0.3s ease;
+}
+
+ul li:hover {
+  color: #007f8c;
+  transform: translateX(5px);
+}
+
+/* Form input focus */
+form input:focus,
+form textarea:focus {
+  border-color: #007f8c;
+  outline: none;
+  box-shadow: 0 0 5px rgba(0, 127, 140, 0.5);
+}
