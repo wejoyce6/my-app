@@ -54,7 +54,7 @@ function About() {
         behavioral health treatment centers, where I specialized in supporting
         people facing both mental health struggles and addiction. In addition to
         providing direct care, I have also served as{" "}
-        <strong>Program Supervisor</strong>, a role that allowed me to mentor
+        <strong>Program Director & Supervisor</strong>, a role that allowed me to mentor
         other clinicians and guide the development of therapeutic programs.
         These experiences have strengthened my ability to see the bigger picture
         while still focusing on the unique needs of each client.
@@ -134,7 +134,7 @@ function Insurance() {
         <li>HSA/FSA accepted</li>
         <li>Initial Intake: $200</li>
         <li>Standard Session: $150</li>
-        <li>Couples/Family Session: $175</li>
+        <li>Couples/Family Session: $200</li>
       </ul>
     </section>
   );
