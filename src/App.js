@@ -148,7 +148,7 @@ function Contact() {
       <p>Phone: (954) 667-8242</p>
 
       <a
-        href="https://calendly.com/your-booking-link"
+        href="https://calendly.com/bill-billjoycetherapy"
         target="_blank"
         rel="noopener noreferrer"
       >
